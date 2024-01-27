@@ -1,5 +1,5 @@
 # Story Generator : Epic Craft
-
+![alt text](story3.png "Architecture")
 ## Overview
 
 The Story Generator is a Node.js script that leverages an external API to dynamically generate and publish stories. It utilizes the 'node-fetch' library to make HTTP requests and interacts with a cloud service to generate various components of a story, such as twists, titles, and continuations.
